@@ -1,0 +1,3 @@
+﻿  Navigation.cpp
+c:\temp\acw_528138\acw_528138_check\acw_template\navigation.cpp(328): warning C4715: 'Navigation::ProcessCommand': not all control paths return a value
+  ACW_Template.vcxproj -> C:\Temp\ACW_528138\ACW_528138_CHECK\ACW_Template\x64\Debug\ACW_Template.exe

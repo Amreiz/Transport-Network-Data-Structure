@@ -1,0 +1,12 @@
+﻿  Navigation.cpp
+c:\temp\acw_template\navigation.cpp(37): warning C4101: 'nodeRef': unreferenced local variable
+c:\temp\acw_template\navigation.cpp(272): warning C4101: 'northings': unreferenced local variable
+c:\temp\acw_template\navigation.cpp(275): warning C4101: 'destination': unreferenced local variable
+c:\temp\acw_template\navigation.cpp(272): warning C4101: 'eastings': unreferenced local variable
+  Generating code
+c:\temp\acw_template\navigation.cpp(250): warning C4715: 'Navigation::ProcessCommand': not all control paths return a value
+  1 of 598 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ACW_Template.vcxproj -> C:\Temp\ACW_Template\Release\ACW_Template.exe

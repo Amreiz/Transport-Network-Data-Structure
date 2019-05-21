@@ -1,0 +1,8 @@
+﻿  Navigation.cpp
+c:\temp\acw_template\navigation.cpp(136): warning C4018: '<': signed/unsigned mismatch
+c:\temp\acw_template\navigation.cpp(37): warning C4101: 'nodeRef': unreferenced local variable
+c:\temp\acw_template\navigation.cpp(270): warning C4101: 'northings': unreferenced local variable
+c:\temp\acw_template\navigation.cpp(273): warning C4101: 'destination': unreferenced local variable
+c:\temp\acw_template\navigation.cpp(270): warning C4101: 'eastings': unreferenced local variable
+c:\temp\acw_template\navigation.cpp(248): warning C4715: 'Navigation::ProcessCommand': not all control paths return a value
+  ACW_Template.vcxproj -> C:\Temp\ACW_Template\Debug\ACW_Template.exe
